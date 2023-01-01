@@ -3,3 +3,5 @@ Simple Python code to generate a 3D PTM Plot (process, technology, market) matri
 
 If you want to do your own, just change the cube dimensions, colours, and the labels (currently in spanish).
 If you want to collaborate, feel free to do a push request.
+
+![plot](./Figure_1.png)
